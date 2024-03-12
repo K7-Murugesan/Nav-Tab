@@ -1,0 +1,49 @@
+{
+    "myTask" : [
+        {
+            "taskId": 1,
+            "subject": "Meeting preparation",
+            "status": "Pending",
+            "dueDate": "2024-03-10",
+            "remainder": true,
+            "createdBy": "Alice",
+            "taskOwner": "Bob"
+        },
+        {
+            "taskId": 2,
+            "subject": "Report submission",
+            "status": "In Progress",
+            "dueDate": "2024-03-15",
+            "remainder": false,
+            "createdBy": "Charlie",
+            "taskOwner": "David"
+        },
+        {
+            "taskId": 3,
+            "subject": "Project kickoff",
+            "status": "Completed",
+            "dueDate": "2024-03-20",
+            "remainder": true,
+            "createdBy": "Eve",
+            "taskOwner": "Frank"
+        },
+        {
+            "taskId": 4,
+            "subject": "Task tracking",
+            "status": "Pending",
+            "dueDate": null,
+            "remainder": false,
+            "createdBy": null,
+            "taskOwner": null
+        },
+        {
+            "taskId": 5,
+            "subject": "Budget review",
+            "status": null,
+            "dueDate": null,
+            "remainder": true,
+            "createdBy": null,
+            "taskOwner": null
+        } 
+    ]
+}
